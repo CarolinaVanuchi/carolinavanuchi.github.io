@@ -1,1 +1,1 @@
-IndexIgnore *
+IndexIgnore *.png *.pdf *.jpg *.css *.js
